@@ -14,9 +14,20 @@
     /* height: 100px;
     background-color: #f1d2e7; */
     /* border: 1px solid #d0a8eb;  */
-    border-top: 1px solid lightgray ;
-    border-bottom: 1px solid lightgray;
+    /* border-top: 1px solid lightgray ;
+    border-bottom: 1px solid lightgray; */
 } 
+
+.title .row{
+    border-bottom: 1px solid lightgray;
+}
+
+.btn{
+    border: 1px solid lightgray;
+    
+}
+
+
 
 /* regole di formattazione */
 img{
