@@ -1,19 +1,21 @@
 /* regole di debug macro */
 
 [class^='container'] {
-    border: 1px dashed black;
-    background-color: lightblue;
+    /* border: 1px dashed black;
+    background-color: lightblue; */
     /* min-height: 80vh; */
 }
 
- [class^='row'] {
+ /* [class^='row'] {
     border: 1px dashed red;
-}
+} */
 
 [class^='col'] {
     /* height: 100px;
     background-color: #f1d2e7; */
-    border: 1px solid #d0a8eb;
+    /* border: 1px solid #d0a8eb;  */
+    border-top: 1px solid lightgray ;
+    border-bottom: 1px solid lightgray;
 } 
 
 /* regole di formattazione */
@@ -21,6 +23,7 @@ img{
     width: 15%;
     padding: 2%;
 }
+
 
 .navbar-toggler{
     --bs-navbar-toggler-border-color: lightgray;
