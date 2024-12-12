@@ -25,7 +25,9 @@
 
 .navbar{
     padding:0;
+    height: 50%;
 }
+
 
 .btn{
     border: 1px solid lightgray;
