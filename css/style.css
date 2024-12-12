@@ -32,13 +32,16 @@
     
 }
 
+.border{
+    margin-top: 20px;
+}
 
 
 
 
 /* regole di formattazione */
 img{
-    width: 15%;
+    width: 60px;
     padding: 2%;
 }
 
