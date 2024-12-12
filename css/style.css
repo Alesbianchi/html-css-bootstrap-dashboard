@@ -35,7 +35,13 @@
 .border{
     margin-top: 20px;
 }
+.form-control{
+    border:  solid var(--bs-border-color);
+}
 
+.form-select{
+    border:  solid var(--bs-border-color);
+}
 
 
 
